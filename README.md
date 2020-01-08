@@ -1,8 +1,5 @@
 # Welcome to Metricbeat 7.5.1
 
-## MetricBeat - test for localhost
-	change the ip tho your localhost ip in - metricbeat.yml at - logstash. 
-
 Metricbeat is a lightweight shipper for metrics.
 
 ## Getting Started

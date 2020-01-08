@@ -119,7 +119,7 @@ setup.kibana:
 
 output.logstash:
   # The Logstash hosts
-  hosts: ["192.168.1.129:5000"]
+  hosts: ["localhost:5000"]
 
 processors:
   - add_host_metadata: ~
